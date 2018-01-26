@@ -1,0 +1,1 @@
+python setup.py sdist bdist_wininst upload --repository http://example.com/pypi
